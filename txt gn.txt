@@ -1,0 +1,10 @@
+Name: Gnaneswar Reddy Boosireddygari
+Course: CSE 29 - Fall 2026
+Project 2 - Hashing and Passwords
+
+Collaborators:
+- None
+
+Resources & AI Tools Used:
+- OpenSSL libcrypto SHA256 documentation
+- Course lecture and lab materials
